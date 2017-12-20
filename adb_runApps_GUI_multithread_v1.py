@@ -1,3 +1,9 @@
+"""
+Runs android apps (Webpages/Ping/Youtube/FTP/PhoneCall)
+v1 - Webpage only implemented
+Authored by Aashish
+"""
+
 import subprocess
 import time
 import os
